@@ -2453,11 +2453,11 @@ textarea.w-select {
 }
 
 .paragraph-2 {
-  color: #b78e36;
+  color: black;
   text-align: center;
   word-break: break-all;
   font-family: Appetite, sans-serif;
-  font-size: 23px;
+  font-size: 15px;
 }
 
 @media screen and (max-width: 991px) {
